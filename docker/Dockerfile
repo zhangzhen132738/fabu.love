@@ -1,4 +1,4 @@
-FROM node:10.15.3
+FROM node:10.23.1
 
 # 安装依赖库
 RUN npm install -g babel-cli \
