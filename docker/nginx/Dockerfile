@@ -1,4 +1,4 @@
-FROM nginx:1.14.2-alpine
+FROM nginx:mainline-alpine
 
 
 COPY fabulove.conf /etc/nginx/conf.d
