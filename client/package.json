@@ -15,7 +15,7 @@
     "babel-polyfill": "^6.26.0",
     "element-ui": "^2.1.0",
     "less-loader": "^4.1.0",
-    "vue": "^2.5.2",
+    "vue": "^2.7.16",
     "vue-context-menu": "^2.0.6",
     "vue-infinite-scroll": "^2.0.2",
     "vue-lazyload": "^1.1.4",
