@@ -34,7 +34,7 @@
         "mongoose": "^5.7.5",
         "jsonwebtoken": "^8.5.0",
         "unzipper": "^0.9.3",
-        "unzip-stream": "^0.3.0",
+        "unzip-stream": "^0.3.4",
         "lodash": "^4.17.4",
         "pm2": "^2.9.3",
         "uuid": "^3.2.1",
